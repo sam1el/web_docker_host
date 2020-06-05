@@ -1,0 +1,13 @@
+interval = 1500
+splay = 600
+run_lock_timeout = 300
+log_level = "warn"
+ssl_verify_mode = ":verify_none"
+
+[chef_license]
+acceptance = "accept"
+
+# [automate]
+# enable = true
+# server_url = "a2url.com/api/v0/events/data-collector"
+# token = "TibiHKIZYbYXRJ0WP1DFBk0JoGg="
